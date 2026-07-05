@@ -1,0 +1,11 @@
+sku_id,category,subcategory,launch_date,unit_cost,list_price
+SKU001,Furniture,Type-1,2024-01-01,632,1233
+SKU002,Furniture,Type-2,2024-01-31,232,1165
+SKU003,Kitchen,Type-3,2024-03-01,230,1218
+SKU004,Decor,Type-4,2024-03-31,295,1058
+SKU005,Decor,Type-5,2024-04-30,423,929
+SKU006,Decor,Type-6,2024-05-30,438,725
+SKU007,Furniture,Type-7,2024-06-29,717,959
+SKU008,Storage,Type-8,2024-07-29,227,1103
+SKU009,Furniture,Type-9,2024-08-28,774,784
+SKU010,Storage,Type-10,2024-09-27,403,1328
